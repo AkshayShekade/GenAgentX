@@ -1,20 +1,19 @@
-![GenAgentX Logo](logo.jpeg)
+<p align="center">
+  <img src="logo.jpeg" alt="GenAgentX Logo" width="700"/>
+</p>
 
+<h1 align="center">GenAgentX – AI Strategy Engine</h1>
 
-# 🤖 GenAgentX – AI Strategy Engine
+<p align="center">
+  GenAgentX is a multi-agent AI system that automates the process of market research, AI/GenAI strategy generation, and resource discovery for any given company or industry. Powered by Google Gemini, SerpAPI, and Streamlit, this tool delivers business-aligned insights, datasets, chatbot suggestions, and a downloadable AI strategy report.
 
-GenAgentX is a multi-agent AI system that automates the process of market research, AI/GenAI strategy generation, and resource discovery for any given company or industry. Powered by Google Gemini, SerpAPI, and Streamlit, this tool delivers business-aligned insights, datasets, chatbot suggestions, and a downloadable AI strategy report.
+</p>
 
 ---
 
 ## 🧠 System Architecture
 
 ![Multi-Agent Architecture](Multi-Agent%20Architecture.png)
-
----
-## 🚀 Live Demo
-
-🔗 [Click here to try GenAgentX on Streamlit](https://genagentx-yourname.streamlit.app)
 
 ---
 

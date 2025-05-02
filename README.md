@@ -26,6 +26,8 @@
 - 🤖 **Chatbot Suggestions**: Propose internal and customer-facing GenAI chatbot ideas
 - 📥 **Auto Report Generation**: Downloadable Markdown and PDF summary
 
+Everything runs on an LLM-driven agent pipeline using **Google Gemini**, **SerpAPI**, and **Streamlit**.
+
 ---
 
 ## 🛠 Tech Stack
@@ -38,6 +40,21 @@
 
 ---
 
+## 📁 Folder Structure
+
+```
+genagentx/
+│
+├── my_agents/                  # All agents
+├── utils/                      # Prompts, search, etc.
+├── app.py                      # Streamlit app
+├── generate_report.py          # Markdown & PDF report
+├── report.md / report.pdf      # Sample outputs
+├── .env                        # API keys
+└── README.md
+```
+
+---
 ## 📥 Try It Locally
 
 ```bash
@@ -73,4 +90,10 @@ SERP_API_KEY=your_serpapi_key
 
 ## 🤝 Let's Connect
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/akshayshekade/) or drop a ⭐ on this repo if you found it useful!
+* 💼 [LinkedIn](https://www.linkedin.com/in/akshayshekade/)
+* 🌐 [Portfolio](https://akshayshekade.netlify.app/)
+* ✉️ [Email](mailto:akshayshekade757@gmail.com)
+
+---
+
+> Made with ❤️ using Streamlit, Google Gemini, and a multi-agent mindset.

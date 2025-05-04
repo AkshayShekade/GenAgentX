@@ -1,5 +1,4 @@
 import streamlit as st
-import matplotlib.pyplot as plt
 from my_agents.industry_research_agent import IndustryResearchAgent
 from my_agents.use_case_generator_agent import UseCaseGeneratorAgent
 from my_agents.resource_collector_agent import ResourceCollectorAgent
@@ -66,9 +65,9 @@ st.sidebar.markdown("### 📜 About")
 st.sidebar.markdown("This app uses a multi-agent system to generate AI strategies for any company or industry.")
 st.sidebar.markdown("Built with Streamlit and Gemini AI.")
 st.sidebar.markdown("### 📧 Contact")
-st.sidebar.markdown("For inquiries, please contact: [akshayshekade757@gmail.com](mailto:Gmail)")
+st.sidebar.markdown("For inquiries, please contact: [Email](mailto:akshayshekade757@gmail.com)")
 st.sidebar.markdown("### 🌐 GitHub")
-st.sidebar.markdown("[GitHub Repository](https://github.com/AkshayShekade/AI-Strategy-Generator)")
+st.sidebar.markdown("[GitHub Repository](https://github.com/AkshayShekade/GenAgentX)")
 
 st.sidebar.markdown("### 📜 Disclaimer")
 st.sidebar.markdown("This app is for educational purposes only. The generated strategies are not guaranteed to be accurate or effective.")
